@@ -1,0 +1,30 @@
+Item,Calories (kcal),Protein (g),Saturated Fat (g),Carbohydrates (g),Sugars (g),Sodium (mg),Cholesterol (mg),Fiber (g),Assumptions
+Fiery Fifth Ave Taco,460,28,8,38,4,820,90,4,As listed street taco
+Fiery Fifth Ave Taco – Burrito,760,36,13,88,6,1520,100,8,Street taco filling as Burrito
+Fiery Fifth Ave Taco – Rice Bowl,660,34,10,74,6,1170,95,9,Street taco filling as Rice Bowl
+Fiery Fifth Ave Taco – Quesadilla,790,40,16,70,6,1460,110,6,Street taco filling as Quesadilla
+Fiery Fifth Ave Taco – Nachos,860,38,15,84,6,1540,105,9,Street taco filling as Nachos
+Cruisin’ on Craig Taco,1210,52,22,88,8,1680,140,10,As listed street taco
+Cruisin’ on Craig Taco – Burrito,1510,60,27,138,10,2380,150,14,Street taco filling as Burrito
+Cruisin’ on Craig Taco – Rice Bowl,1410,58,24,124,10,2030,145,15,Street taco filling as Rice Bowl
+Cruisin’ on Craig Taco – Quesadilla,1540,64,30,120,10,2320,160,12,Street taco filling as Quesadilla
+Cruisin’ on Craig Taco – Nachos,1610,62,29,134,10,2400,155,15,Street taco filling as Nachos
+Funky Frew Taco,890,36,12,78,7,1500,0,12,As listed street taco
+Funky Frew Taco – Burrito,1190,44,17,128,9,2200,10,16,Street taco filling as Burrito
+Funky Frew Taco – Rice Bowl,1090,42,14,114,9,1850,5,17,Street taco filling as Rice Bowl
+Funky Frew Taco – Quesadilla,1220,48,20,110,9,2140,20,14,Street taco filling as Quesadilla
+Funky Frew Taco – Nachos,1290,46,19,124,9,2220,15,17,Street taco filling as Nachos
+Munchin’ Morewood Taco,540,34,10,42,4,920,95,4,As listed street taco
+Munchin’ Morewood Taco – Burrito,840,42,15,92,6,1620,105,8,Street taco filling as Burrito
+Munchin’ Morewood Taco – Rice Bowl,740,40,12,78,6,1270,100,9,Street taco filling as Rice Bowl
+Munchin’ Morewood Taco – Quesadilla,870,46,18,74,6,1560,115,6,Street taco filling as Quesadilla
+Munchin’ Morewood Taco – Nachos,940,44,17,88,6,1640,110,9,Street taco filling as Nachos
+Mix & Match Platter (3 tacos avg),2325,112,30,130,15,2800,240,18,Average of 4 tacos × 3
+Spanish Rice,80,2,0,18,0,120,0,1,Side portion
+Brown Rice,110,3,0,23,0,10,0,2,Side portion
+Charro Beans,270,12,1,38,2,380,0,10,Side portion
+Black Beans,50,3,0,8,0,80,0,5,Side portion
+Chips & Queso,350,8,7,42,2,540,20,3,Side portion
+Chips & Street Corn Queso,350,9,8,40,3,560,20,3,Side portion
+Fountain Soda (12 oz),150,0,0,39,39,30,0,0,Typical cola
+Water,0,0,0,0,0,0,0,0,Bottled water

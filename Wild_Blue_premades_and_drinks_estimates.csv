@@ -1,0 +1,29 @@
+Item,Calories (kcal),Protein (g),Saturated Fat (g),Carbohydrates (g),Sugars (g),Sodium (mg),Cholesterol (mg),Fiber (g),Notes
+Spicy Shrimp Roll,320,16,2.0,46,6,750,120,3,Calories anchored; fat back-solved; others estimated
+Crunchy Roll,620,18,10.4,70,10,1050,85,4,Calories anchored; fat back-solved; others estimated
+Dragon Roll,480,20,5.3,60,8,900,85,4,Calories anchored; fat back-solved; others estimated
+Crunchy Shrimp Tempura Roll,580,20,9.2,66,8,1100,115,4,Calories anchored; fat back-solved; others estimated
+California Roll,310,10,1.2,54,6,650,25,3,Calories anchored; fat back-solved; others estimated
+Cream Cheese Roll (est.),520,14,10.3,58,7,900,75,3,Calories anchored; fat back-solved; others estimated
+Vegetable Combo,290,7,0.8,54,7,520,0,5,Calories anchored; fat back-solved; others estimated
+Avocado Salad Roll (est.),330,6,1.9,55,6,520,0,6,Calories anchored; fat back-solved; others estimated
+"Summer Roll (2 pc, est.)",220,10,0.8,36,5,480,60,3,Calories anchored; fat back-solved; others estimated
+Rainbow Roll (est.),520,26,5.1,58,7,980,85,4,Calories anchored; fat back-solved; others estimated
+Spicy Tuna/Salmon Roll (10 pc),400,24,2.2,54,6,820,75,3,Calories anchored; fat back-solved; others estimated
+Chef Sampler (est.),650,32,7.3,72,9,1200,110,4,Calories anchored; fat back-solved; others estimated
+Orange Chicken Bowl,520,28,5.3,62,24,980,95,3,Calories anchored; fat back-solved; others estimated
+Teriyaki Chicken Bowl,490,30,4.3,58,22,980,95,3,Calories anchored; fat back-solved; others estimated
+Spicy Teriyaki Chicken Bowl,500,30,4.6,58,22,1020,95,3,Calories anchored; fat back-solved; others estimated
+Asian BBQ Beef Bowl,500,27,6.0,56,20,1040,110,2,Calories anchored; fat back-solved; others estimated
+Tofu Bowl,440,20,3.3,56,14,880,0,4,Calories anchored; fat back-solved; others estimated
+Sesame Chicken Bowl,530,28,6.3,60,24,1020,95,3,Calories anchored; fat back-solved; others estimated
+"Signature Milk Tea (16 oz, est.)",260,0,0.0,36,36,110,0,0,Estimated (typical 16 oz); toppings add calories
+"Brown Sugar Milk Tea (16 oz, est.)",320,0,0.0,48,48,120,0,0,Estimated (typical 16 oz); toppings add calories
+"Fruit Tea (16 oz, est.)",160,0,0.0,35,35,15,0,0,Estimated (typical 16 oz); toppings add calories
+"Matcha Milk Tea (16 oz, est.)",280,0,0.0,38,38,110,0,0,Estimated (typical 16 oz); toppings add calories
+"Thai Milk Tea (16 oz, est.)",300,0,0.0,44,44,120,0,0,Estimated (typical 16 oz); toppings add calories
+"Smoothie (16 oz, est.)",260,0,0.0,50,50,40,0,0,Estimated (typical 16 oz); toppings add calories
+"Add Boba/Jelly/Popping Pearls (2 oz, est.)",100,0,0.0,18,18,10,0,0,Estimated (typical 16 oz); toppings add calories
+"Edamame (side, est.)",180,17,0.6,14,3,10,0,8,Calories anchored; fat back-solved; others estimated
+"Seaweed Salad (side, est.)",110,3,0.6,12,6,690,0,3,Calories anchored; fat back-solved; others estimated
+"Miso Soup (cup, est.)",45,3,0.2,4,1,760,0,1,Calories anchored; fat back-solved; others estimated
